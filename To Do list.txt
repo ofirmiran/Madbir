@@ -1,0 +1,11 @@
+* Install office
+
+* Update the path of algorithem that built from training to another name from runs
+
+* Using anaconda
+
+* Move arrow detection files to functions
+
+* Move create Dataset files to functions
+
+* hs_movement ask gelber if need this

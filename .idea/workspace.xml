@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b050a1aa-5de1-4040-b0c5-362e444c30b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2tJ0jrTwKlot1sQnsrLzonqVisa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Madbir_Gui">
+    <configuration name="Madbir" type="PythonConfigurationType" factoryName="Python">
+      <module name="Madbir" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\Madbir_env\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Madbir_Gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Madbir" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\Mabir_env\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Madbir_Gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Madbir" />
+      <item itemvalue="Python.Madbir_Gui" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Madbir_Gui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b050a1aa-5de1-4040-b0c5-362e444c30b4" name="Default Changelist" comment="" />
+      <created>1740055007489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740055007489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1740663185394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1740663185394" />
+    <state x="441" y="120" key="EnvironmentVariablesDialog" timestamp="1740056468485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="441" y="120" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1740056468485" />
+    <state x="498" y="110" key="FileChooserDialogImpl" timestamp="1741174077949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1741174077949" />
+    <state width="1509" height="81" key="GridCell.Tab.0.bottom" timestamp="1741532635723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="81" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1741532635723" />
+    <state width="1893" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1740675701566" />
+    <state width="1509" height="81" key="GridCell.Tab.0.center" timestamp="1741532635723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="81" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1741532635723" />
+    <state width="1893" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1740675701566" />
+    <state width="1509" height="81" key="GridCell.Tab.0.left" timestamp="1741532635723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="81" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1741532635723" />
+    <state width="1893" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1740675701566" />
+    <state width="1509" height="81" key="GridCell.Tab.0.right" timestamp="1741532635723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="81" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1741532635723" />
+    <state width="1893" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1740675701566" />
+    <state x="161" y="0" key="SettingsEditor" timestamp="1740663143727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="161" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1740663143727" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1741527369427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1741527369427" />
+  </component>
+</project>
